@@ -1,2 +1,0 @@
-# dankeBank
-Sample project work
